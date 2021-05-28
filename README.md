@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @bindaldhara
-- 👀 I’m interested in coding and to contribute in open source projects...
-- 🌱 I’m currently learning HTML and CSS...
+                                                     HEY! Dhara Here                                                      
+ I am pursuing Btech from Jabalpur Engineering College 
+ I am presently learning Cpp and HTML
+ coding enthusiast
+ 
+                                                    
 
 
 <!---

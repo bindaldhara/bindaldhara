@@ -1,7 +1,7 @@
                                                      HEY! Dhara Here                                                      
- I am pursuing Btech from Jabalpur Engineering College 
- I am presently learning Cpp and HTML
- coding enthusiast
+     I am pursuing Btech from Jabalpur Engineering College 
+     I am presently learning Cpp and HTML
+     Coding enthusiast
  
                                                     
 

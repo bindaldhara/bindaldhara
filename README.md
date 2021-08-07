@@ -23,7 +23,7 @@
 
    <a target="_blank" href="https://www.linkedin.com/in/dhara-bindal-48996a1b">LINKEDIN</a> 
   <a target="_blank" href="dharabindal@gmail.com"> GMAIL</a> 
-  <a target="_blank" href="https://github.com/bindaldharal">GITHUB</a> 
+  <a target="_blank" href="https://github.com/bindaldhara">GITHUB</a> 
 </div>
 
 

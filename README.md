@@ -21,7 +21,7 @@
 
 <b>Follow me around the web: :point_down:</b><br>
 
-   <a target="_blank" href="https://www.linkedin.com/in/dhara-bindal-48996a1b">LINKEDIN</a>  
+   <a target="_blank" href="https://www.linkedin.com/in/dhara-bindal-48996a1bb">LINKEDIN</a>  
   <a target="_blank" href="https://github.com/bindaldhara">GITHUB</a> 
   
 [![Dhara's github activity graph](https://activity-graph.herokuapp.com/graph?username=bindaldhara&theme=react-dark)](https://github.com/bindaldhara/github-readme-activity-graph)

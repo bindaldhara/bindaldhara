@@ -22,7 +22,7 @@
 
 </br>
 </br>
-
+[![Dhara's github activity graph](https://activity-graph.herokuapp.com/graph?username=bindaldhara&theme=react-dark)](https://github.com/bindaldhara/github-readme-activity-graph)
 <b>Follow me around the web: :point_down:</b><br>
 
    <p align="center">
@@ -33,8 +33,6 @@
 <a href="mailto:dharabindal@gmail.com" target="_blank">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-  
-[![Dhara's github activity graph](https://activity-graph.herokuapp.com/graph?username=bindaldhara&theme=react-dark)](https://github.com/bindaldhara/github-readme-activity-graph)
 
 </div>
 

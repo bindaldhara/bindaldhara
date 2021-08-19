@@ -25,8 +25,14 @@
 
 <b>Follow me around the web: :point_down:</b><br>
 
-   <a target="_blank" href="https://www.linkedin.com/in/dhara-bindal-48996a1bb">LINKEDIN</a>  
-  <a target="_blank" href="https://github.com/bindaldhara">GITHUB</a> 
+   <p align="center">
+<a href="https://github.com/bindaldhara" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
+<a href="https://www.linkedin.com/in/dhara-bindal-48996a1bb" target="_blank">
+<img alt = "LinkedIn"src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:dharabindal@gmail.com" target="_blank">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
   
 [![Dhara's github activity graph](https://activity-graph.herokuapp.com/graph?username=bindaldhara&theme=react-dark)](https://github.com/bindaldhara/github-readme-activity-graph)
 

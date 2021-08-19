@@ -6,6 +6,7 @@
 -:computer: Computer Science branch <br>
 -:relaxed: Learning to code <br>
 -:grinning:Open source enthusiast
+  <br>
 </div>
 <div align="center">
 <div align="center">

@@ -5,8 +5,7 @@
 -:european_post_office: A first year student in Jabalpur Engineering College. <br>
 -:computer: Computer Science branch <br>
 -:relaxed: Learning to code <br>
--:grinning:Open source enthusiast
-  <br>
+-:grinning:Open source enthusiast<br>
 </div>
 <div align="center">
 <div align="center">

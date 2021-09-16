@@ -15,10 +15,6 @@
   <p align="#center"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bindaldhara&layout=compact&hide=html&theme=dracula&show_icons=true" alt="most used language" /></p>
 </div>
 </br>
-
-
-[![Dhara's github activity graph](https://activity-graph.herokuapp.com/graph?username=bindaldhara&theme=dracula)](https://github.com/bindaldhara/github-readme-activity-graph)
-<br>
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -27,6 +23,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+[![Dhara's github activity graph](https://activity-graph.herokuapp.com/graph?username=bindaldhara&theme=dracula)](https://github.com/bindaldhara/github-readme-activity-graph)
+<br>
+
 
 
 <h1 align="center">Follow me around web :point_down:</h1>

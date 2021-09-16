@@ -15,8 +15,10 @@
   <p align="#center"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bindaldhara&layout=compact&hide=html&theme=dracula&show_icons=true" alt="most used language" /></p>
 </div>
 </br>
+
 [![Dhara's github activity graph](https://activity-graph.herokuapp.com/graph?username=bindaldhara&theme=dracula)](https://github.com/bindaldhara/github-readme-activity-graph)
 <br>
+
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -37,7 +39,7 @@
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bindaldhara" alt="dhara" /> </p>
+
 </div>
 
 

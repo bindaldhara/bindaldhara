@@ -2,10 +2,10 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 Dhara here :wave:</h2>
 </div>
 <div align="center">
--:european_post_office: A first year student in Jabalpur Engineering College. <br>
--:computer: Computer Science branch <br>
+-:computer: CS undergrad at Jabalpur Engineering College. <br>
 -:relaxed: Learning to code <br>
 -:grinning:Open source enthusiast<br>
+-Explore :boom:->learn :right_anger_bubble:->grow :v:
 </div>
 <div align="center">
 <div align="center">

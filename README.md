@@ -1,15 +1,27 @@
   <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 Dhara here :wave:</h2>
-</div>
-<div align="center">
--:computer: CS undergrad at Jabalpur Engineering College. <br>
--:relaxed: Learning to code <br>
--:grinning:Open source enthusiast<br>
--Explore :boom:->learn :right_anger_bubble:->grow :v:
-</div>
-<div align="center">
-<div align="center">
   <br>
+  <img align="right" alt="width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
+</div>
+<div align="left" font-size:"100 >
+     
+  
+-:computer: **CS undergrad at Jabalpur Engineering College.** <br>
+                             
+-:relaxed: **Learning to code**<br>
+                             
+-:grinning: **Open source enthusiast**<br>
+                             
+ -🌱 **Interested in web development**<br>
+                             
+-**Explore :boom:->learn :right_anger_bubble:->grow :v:**
+            
+                             
+</div>
+
+<div align="center">
+  <br><br>
+  
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bindaldhara&theme=dracula&show_icons=true" alt="bindaldhara's Github Stats"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bindaldhara&theme=dracula&show_icons=true" /><br>
   <p align="#center"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bindaldhara&layout=compact&hide=html&theme=dracula&show_icons=true" alt="most used language" /></p>
@@ -29,8 +41,8 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 
-<h1 align="center">Follow me around web :point_down:</h1>
-   <p align="center">
+<h1 align="left">Follow me around web :point_down:</h1>
+   <p align="left">
 <a href="https://github.com/bindaldhara" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
 <a href="https://www.linkedin.com/in/dhara-bindal-48996a1bb" target="_blank">

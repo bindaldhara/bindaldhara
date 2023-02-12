@@ -10,9 +10,11 @@
                              
 -:relaxed: **Learning to code**<br>
                              
--:grinning: **Open source enthusiast**<br>
+-:grinning: **Open source contributor**<br>
                              
  -🌱 **Interested in web development**<br>
+  
+  -:grinning: **Machine Learning Enthusiast**<br>
                              
 -**Explore :boom:->learn :right_anger_bubble:->grow :v:**
             
@@ -28,7 +30,6 @@
 </div>
 </br>
 
-[![Dhara's github activity graph](https://activity-graph.herokuapp.com/graph?username=bindaldhara&theme=dracula)](https://github.com/bindaldhara/github-readme-activity-graph)
 <br>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
@@ -39,8 +40,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-
-
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![Node jS](https://img.shields.io/badge/Node.js-3399?style=for-the-badge&logo=nodedotjs&logoColor=white)
 <h1 align="left">Follow me around web :point_down:</h1>
    <p align="left">
 <a href="https://github.com/bindaldhara" target="_blank">

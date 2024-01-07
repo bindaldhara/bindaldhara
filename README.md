@@ -16,7 +16,7 @@
   
   - 😀 **Machine Learning Enthusiast**<br>
                              
--**Explore :boom:->learn :right_anger_bubble:->grow :v:**
+- **Explore :boom:->learn :right_anger_bubble:->grow :v:**
             
                              
 </div>

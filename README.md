@@ -6,15 +6,15 @@
 <div align="left" font-size:"100 >
      
   
--:computer: **CS undergrad at Jabalpur Engineering College.** <br>
+- 💻 **CS undergrad at Jabalpur Engineering College.** <br>
                              
--:relaxed: **Learning to code**<br>
+- 😀 **Learning to code**<br>
                              
--:grinning: **Open source contributor**<br>
+- 🌟 **Open source contributor**<br>
                              
- -🌱 **Interested in web development**<br>
+ - 🌱 **Interested in web development**<br>
   
-  -:grinning: **Machine Learning Enthusiast**<br>
+  - 😀 **Machine Learning Enthusiast**<br>
                              
 -**Explore :boom:->learn :right_anger_bubble:->grow :v:**
             

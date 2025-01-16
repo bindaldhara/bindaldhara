@@ -6,7 +6,7 @@
 <div align="left" font-size:"100 >
      
   
-- 💻 **CS grad at Jabalpur Engineering College.** <br>
+- 💻 **CS graduated from Jabalpur Engineering College.** <br>
                              
 - 😀 **Learning to code**<br>
                              

@@ -6,15 +6,11 @@
 <div align="left" font-size:"100 >
      
   
-- 💻 **CS graduated from Jabalpur Engineering College.** <br>
-                             
-- 😀 **Learning to code**<br>
+- 💻 **Software Engineer at LG Ad Solutions.** <br>
                              
 - 🌟 **Open source contributor**<br>
                              
  - 🌱 **Interested in web development**<br>
-  
-  - 😀 **Machine Learning Enthusiast**<br>
                              
 - **Explore :boom:->learn :right_anger_bubble:->grow :v:**
             
